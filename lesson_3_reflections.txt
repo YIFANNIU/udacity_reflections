@@ -16,3 +16,8 @@ you use one instead of another?
 	Branches: Make another version of the repository, all work done on this branch will
 	not affect the master branch.
 
+3. What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+	You will not forget to update it. when you run the command , it will always remind you.
+	
