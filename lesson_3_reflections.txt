@@ -21,3 +21,21 @@ stored locally?
 
 	You will not forget to update it. when you run the command , it will always remind you.
 	
+4. How would you collaborate without using Git or GitHub? What would be
+easier, and what would be harder?
+
+	I need manually merge the file. Of course using git will be easier.
+	Do it manually will be harder.
+
+5. When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?
+
+	When many people work on the same project and all the change need to be
+	checked by the master.
+
+	Work on a separate branch help us be clear of any changes
+	Work on the same master branch will be more convenience and efficient
+
+
+
+
